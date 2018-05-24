@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
-const multer = require('multer');
-const upload = multer({ dest: 'public/photos/'});
 
 const port = 5000;
 
