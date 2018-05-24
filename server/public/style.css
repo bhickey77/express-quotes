@@ -1,0 +1,13 @@
+.card {
+    float: left;
+    margin: 7px;
+}
+
+.card-body {
+    height: 280px;
+}
+
+img {
+    width: auto;
+    height: 150px;
+}
